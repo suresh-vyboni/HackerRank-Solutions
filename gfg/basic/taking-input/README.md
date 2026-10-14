@@ -30,7 +30,7 @@ For floating-point number 5.5, its floor value 5 is printed.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T08:11:06.862Z  
+**Submitted:** 2026-10-14T08:11:38.378Z  
 
 ```py
 import math
